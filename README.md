@@ -66,10 +66,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Hassan-yasser.Hassan-yasser&left_color=grey&left_text=Views"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
