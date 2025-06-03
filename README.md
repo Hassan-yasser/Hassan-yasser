@@ -1,4 +1,4 @@
-<h1 align="center">Hello I',m Hasan Alhossiny 👋</h1>
+<h1 align="center">Hello I'm Hasan Alhossiny 👋</h1>
 
 ###
 
@@ -72,12 +72,23 @@
   <a href="https://www.linkedin.com/in/hasan-yaser-900998319" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="hasanyaseralhossiny" target="_blank">
+  <a href="https://discord.com/users/hasanyaseralhossiny" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="+201096407359" target="_blank">
+  <a href="https://wa.me/201096407359" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://drive.google.com/file/d/1qlTQHRDITmTN4EUqbW3Lgwwe4-nEy733/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Download+CV&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="cv logo"  />
   </a>
 </div>
 
 ###
+
+## 📞 Contact Info
+
+```bash
+📱 WhatsApp: +201096407359
+🕹️ Discord: hasanyaseralhossiny
+💼 LinkedIn: https://www.linkedin.com/in/hasan-yaser-900998319
+📄 CV: https://drive.google.com/file/d/1qlTQHRDITmTN4EUqbW3Lgwwe4-nEy733/view?usp=sharing
