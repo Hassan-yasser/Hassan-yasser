@@ -124,4 +124,4 @@ About Me :<br>
 🕹️ Discord: hasanyaseralhossiny
 💼 LinkedIn: https://www.linkedin.com/in/hasan-yaser-900998319
 📄 CV & Certifications:
-https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v](https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v?usp=drive_link
+https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v](https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v?usp=drive_link](https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v?usp=drive_link
