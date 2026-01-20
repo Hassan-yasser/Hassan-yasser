@@ -2,7 +2,9 @@
 
 ###
 
-<h4 align="center">Intermediate Junior Front End Developer</h4>
+<h4 align="center">Senior Front End Developer</h4>
+<h4 align="center">Junior React Native</h4>
+<h4 align="center">Senior Backend</h4>
 
 ###
 
