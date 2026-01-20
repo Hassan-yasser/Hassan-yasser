@@ -62,6 +62,8 @@ About Me :<br>
 
 ### 🧰 DevOps & Tools
 <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" />
@@ -75,8 +77,7 @@ About Me :<br>
 
 ### 🧪 Testing & Documentation
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg" height="40" />
-  <img width="12" />
+
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" />
