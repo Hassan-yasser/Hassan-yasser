@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M3bDZrczJ1aXUzcGR2MWJ1c3dmdXgyejhpOWVjbXkxaGxjN2FrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pns0WLGxwavurbRDdC/giphy.gif"  />
-</div>
-
-###
-
 <p align="left">About Me :<br>- 🔭 I’m working as Front End Developer @DrCode<br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time, I enjoy solving coding problems</p>
 
 ###
