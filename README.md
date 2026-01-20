@@ -2,9 +2,7 @@
 
 ###
 
-<h4 align="center">Senior Front End Developer</h4>
-<h4 align="center">Junior React Native</h4>
-<h4 align="center">Senior Backend</h4>
+<h3 align="center">Senior Software Engineer</h3>
 
 ###
 
