@@ -1,83 +1,122 @@
 <h1 align="center">Hello I'm Hasan Alhossiny 👋</h1>
 
-###
+<h3 align="center">Senior Software Engineer (Laravel / React)</h3>
 
-<h3 align="center">Senior Software Engineer</h3>
+---
 
-###
+<p align="left">
+About Me :<br>
+- 🔭 Senior Software Engineer (Laravel / React) @DrCode<br>
+- 🧠 Strong experience in REST APIs, Authentication, and System Design<br>
+- 📚 Currently learning React Native<br>
+- ⚡ I enjoy solving complex problems and building scalable systems
+</p>
 
-<p align="left">About Me :<br>- 🔭 I’m working as Front End Developer @DrCode<br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time, I enjoy solving coding problems</p>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-yasser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-yasser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠 Languages & Tools
 
-###
-
+### 🎨 Frontend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
 </div>
 
-###
+---
 
-<br clear="both">
+### ⚙️ Backend (PHP / Laravel)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
+</div>
+
+---
+
+### 🧰 DevOps & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" />
+</div>
+
+---
+
+### 🧪 Testing & Documentation
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" />
+</div>
+
+---
+
+### 🛠 Other Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hasan-yaser-900998319" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="https://discord.com/users/hasanyaseralhossiny" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
   </a>
   <a href="https://wa.me/201096407359" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/>
   </a>
-  <a href="https://drive.google.com/file/d/1qlTQHRDITmTN4EUqbW3Lgwwe4-nEy733/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Download+CV&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="cv logo"  />
+  <a href="https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="40"/>
   </a>
 </div>
 
-###
+---
 
 ## 📞 Contact Info
 
@@ -85,4 +124,5 @@
 📱 WhatsApp: +201090626124
 🕹️ Discord: hasanyaseralhossiny
 💼 LinkedIn: https://www.linkedin.com/in/hasan-yaser-900998319
-📄 CV And Licenses & certifications : https://drive.google.com/file/d/1qlTQHRDITmTN4EUqbW3Lgwwe4-nEy733/view?usp=sharing](https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v?usp=sharing
+📄 CV & Certifications:
+https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v
