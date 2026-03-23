@@ -1,12 +1,12 @@
 <h1 align="center">Hello I'm Hasan Alhossiny 👋</h1>
 
-<h3 align="center">Senior Software Engineer (Laravel / React)</h3>
+<h3 align="center">Software Engineer (Laravel / React / Next)</h3>
 
 ---
 
 <p align="left">
 About Me :<br>
-- 🔭 Senior Software Engineer (Laravel / React.js / Next.js) @DrCode && @Audit Station<br>
+- 🔭 Software Engineer (Laravel / React.js / Next.js) @DrCode && @Audit Station<br>
 - 🧠 Strong experience in REST APIs, Authentication, and System Design<br>
 - 📚 Currently learning React Native<br>
 - ⚡ I enjoy solving complex problems and building scalable systems
@@ -58,22 +58,6 @@ About Me :<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
 </div>
 
----
-
-### 🧰 DevOps & Tools
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" />
-</div>
-
----
 
 ### 🧪 Testing & Documentation
 <div align="left">
@@ -101,11 +85,8 @@ About Me :<br>
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hasan-yaser-900998319" target="_blank">
+  <a href="https://www.linkedin.com/in/hassan-alhossiny-7143173b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-  <a href="https://discord.com/users/hasanyaseralhossiny" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
   </a>
   <a href="https://wa.me/201090626124" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/>
@@ -121,7 +102,5 @@ About Me :<br>
 
 ```bash
 📱 WhatsApp: +201090626124
-🕹️ Discord: hasanyaseralhossiny
-💼 LinkedIn: https://www.linkedin.com/in/hasan-yaser-900998319
-📄 CV & Certifications:
-https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v](https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v?usp=drive_link](https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v?usp=drive_link
+💼 LinkedIn: [https://www.linkedin.com/in/hasan-yaser-900998319](https://www.linkedin.com/in/hassan-alhossiny-7143173b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
