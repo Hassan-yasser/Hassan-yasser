@@ -6,7 +6,7 @@
 
 <p align="left">
 About Me :<br>
-- 🔭 Software Engineer (Laravel / React.js / Next.js) @DrCode && @Audit Station<br>
+- 🔭 Software Engineer (Laravel / React.js / Next.js)<br>
 - 🧠 Strong experience in REST APIs, Authentication, and System Design<br>
 - 📚 Currently learning React Native<br>
 - ⚡ I enjoy solving complex problems and building scalable systems
