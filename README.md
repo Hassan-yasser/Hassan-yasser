@@ -1,106 +1,219 @@
-<h1 align="center">Hello I'm Hasan Alhossiny 👋</h1>
+# <h1 align="center">Hi 👋, I'm Hasan Alhossiny</h1>
 
-<h3 align="center">Software Engineer (Laravel / React / Next)</h3>
+<h3 align="center">
+Founder @ QuickList • Full Stack Engineer @ KOD Solutions
+</h3>
 
----
+<p align="center">
+Building scalable SaaS products, AI-powered applications, and high-performance web platforms.
+</p>
 
-<p align="left">
-About Me :<br>
-- 🔭 Software Engineer (Laravel / React.js / Next.js)<br>
-- 🧠 Strong experience in REST APIs, Authentication, and System Design<br>
-- 📚 Currently learning React Native<br>
-- ⚡ I enjoy solving complex problems and building scalable systems
+<p align="center">
+
+<a href="https://dev.quicklistweb.com">
+<img src="https://img.shields.io/badge/🚀%20QuickList-Live-success?style=for-the-badge"/>
+</a>
+
+<a href="https://hasan-henna.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hassan-alhossiny-7143173b8">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hasan.yasser.alhossiny@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-yasser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false" height="150" alt="languages graph" />
-</div>
+![](https://komarev.com/ghpvc/?username=Hassan-yasser\&style=for-the-badge)
 
 ---
 
-## 🛠 Languages & Tools
+# 🚀 About Me
 
-### 🎨 Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-</div>
+* 🚀 Founder of **QuickList** — Production-ready File Sharing & Developer Tools Platform.
+* 💼 Full Stack Engineer at **KOD Solutions**.
+* ⚙️ Experienced in building SaaS, HR Systems, Fintech Platforms, and Real-Time Dashboards.
+* 🌍 Passionate about scalable architecture, APIs, Cloud Infrastructure, and System Design.
+* 📈 Strong experience with SEO, Google Search Console, Google AdSense, and performance optimization.
+* 📚 Currently learning React Native and AI integrations.
+* 🎯 My mission is to build products used by millions of users worldwide.
 
 ---
 
-### ⚙️ Backend (PHP / Laravel)
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
-</div>
+# 🌍 Featured Projects
 
+## 🚀 QuickList
 
-### 🧪 Testing & Documentation
-<div align="left">
+**Founder & Lead Developer**
 
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" />
-</div>
+Production-ready platform for file sharing and developer tools.
 
----
+### Features
 
-### 🛠 Other Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" />
-</div>
+* 🔒 Secure File Sharing
+* ☁️ Cloud Storage
+* ⚡ Lightning Fast Performance
+* 📦 REST APIs
+* 🌐 SEO Optimized
+* 💰 Google AdSense Monetization
+* 📈 Google Search Console Integration
+
+### Live Demo
+
+🔗 https://dev.quicklistweb.com/
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 Personal Portfolio
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hassan-alhossiny-7143173b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-  <a href="https://wa.me/201090626124" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/>
-  </a>
-  <a href="https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="40"/>
-  </a>
-</div>
+Interactive modern portfolio built to showcase my journey, projects and technical expertise.
+
+### Live Demo
+
+🔗 https://hasan-henna.vercel.app/
 
 ---
 
-## 📞 Contact Info
+## 💰 Ether Services
 
-```bash
-📱 WhatsApp: +201090626124
-💼 LinkedIn: [https://www.linkedin.com/in/hasan-yaser-900998319](https://www.linkedin.com/in/hassan-alhossiny-7143173b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Full Stack Fintech Dashboard
 
+* Laravel
+* React.js
+* Next.js
+* PostgreSQL
+* Authentication
+* REST APIs
+
+---
+
+## 👨‍💼 HR Management System
+
+Enterprise Employee Management Platform
+
+* Next.js
+* Laravel
+* OAuth2
+* TypeScript
+* Tailwind CSS
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,bootstrap"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,firebase,redis"/>
+
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,cloudflare"/>
+
+</p>
+
+---
+
+## 🧪 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postman,figma"/>
+
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="45"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hassan-yasser&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-yasser&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hassan-yasser&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan-yasser&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# 🚀 Currently Working On
+
+* 🚀 Scaling QuickList
+* 🤖 AI Features
+* 📱 React Native
+* ☁️ Cloud Infrastructure
+* ⚡ Performance Optimization
+* 🌍 Building Products for Global Users
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hassan-alhossiny-7143173b8">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:hasan.yasser.alhossiny@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://dev.quicklistweb.com">
+<img src="https://img.shields.io/badge/QuickList-Live-success?style=for-the-badge"/>
+</a>
+
+<a href="https://hasan-henna.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://drive.google.com/drive/folders/1gUZNkRr9ArzWyIhTuTvexFMxSGWZPu_v">
+<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ "I don't just write code — I build products that solve real-world problems."
+
+</p>
